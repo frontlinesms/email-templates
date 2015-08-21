@@ -1,0 +1,61 @@
+body
+{
+	font-size: 80%;
+	font-family: Helvetica,Arial, sans-serif; 
+	margin: 10px 0px 0px 10px; 
+	padding: 0px
+}
+
+#wrapper
+{
+	background-color: #fff;
+	width: 600px;
+	margin: 0 auto;
+}
+
+#header
+{
+	background-color: ;
+	padding: 20px;
+	text-align: right;
+}
+
+#header img
+{
+	/*margin-left: 470px;*/
+}
+
+#content-body
+{
+	padding: 100px 20px 20px 20px;
+	background-color: ;
+}
+
+#content-body a
+{
+	color:#1155CC;
+}
+
+
+#footer
+{
+	padding: 20px;
+	background-color: ;
+}
+
+#footer p img
+{
+	width: 150px; 
+	height: 60px; 
+	margin: 0px;
+}
+
+#footer p a
+{
+	color: #000000;
+}
+
+#footer p a.help-frontlinesms
+{
+	color:#1155CC;
+}
