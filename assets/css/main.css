@@ -20,15 +20,9 @@ body
 	text-align: right;
 }
 
-#header img
-{
-	/*margin-left: 470px;*/
-}
-
 #content-body
 {
 	padding: 100px 20px 20px 20px;
-	background-color: ;
 }
 
 #content-body a
@@ -40,7 +34,6 @@ body
 #footer
 {
 	padding: 20px;
-	background-color: ;
 }
 
 #footer p img
