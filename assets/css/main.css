@@ -30,6 +30,12 @@ body
 	color:#1155CC;
 }
 
+#footer p
+{
+	margin: 0px;
+	padding: 0px;
+}
+
 
 #footer
 {
