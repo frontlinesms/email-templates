@@ -1,54 +1,32 @@
-body
-{
-	font-size: 80%;
-	font-family: Helvetica,Arial, sans-serif; 
-	margin: 10px 0px 0px 10px; 
-	padding: 0px
+body {
+	font-family: Helvetica,Arial, sans-serif;
+	margin: 10px 0px;
+	padding: 0px;
 }
 
-#wrapper
-{
-	background-color: #fff;
-	width: 600px;
+/*div {
+	margin: 50px;
+}*/
+
+a {
+	color: #1155CC;
+}
+
+#wrapper {
 	margin: 0 auto;
+	max-width: 700px;
 }
 
-#header
-{
-	background-color: ;
-	padding: 20px;
+#header {
 	text-align: right;
 }
 
-#content-body
-{
-	padding: 100px 20px 20px 20px;
-}
-
-#content-body a
-{
-	color:#1155CC;
-}
-
-
-#footer
-{
-	padding: 20px;
-}
-
-#footer p img
-{
+#footer p img {
 	width: 150px; 
 	height: 60px; 
-	margin: 0px;
+	margin: 0;
 }
 
-#footer p a
-{
+#footer p a {
 	color: #000000;
-}
-
-#footer p a.help-frontlinesms
-{
-	color:#1155CC;
 }
